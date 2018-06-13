@@ -14,7 +14,7 @@ setup(
     description=("MatchZoo is a toolkit for text matching. It was developed with a focus on facilitating the designing, comparing and sharing of deep text matching models."),
     license="BSD",
     keywords="text matching models",
-    url="https://github.com/faneshion/MatchZoo",
+    url="https://github.com/Jie-Yuan/MatchZoo",
     # ['data', 'docs', 'examples', 'matchzoo', 'tests'],
     packages=find_packages(),
     # long_description=read('README.md'),
