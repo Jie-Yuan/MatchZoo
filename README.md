@@ -46,12 +46,11 @@ MatchZoo is a toolkit for text matching. It was developed with a focus on facili
 </table>
 
 ## Installation
-MatchZoo is still under development. Before the first stable release (1.0), please clone the repository and run
+- Pypi: https://pypi.org/project/MatchZoo/
 ```
-git clone https://github.com/faneshion/MatchZoo.git
-cd MatchZoo
-python setup.py install
+pip install MatchZoo
 ```
+
 In the main directory, this will install the dependencies automatically.
 
 For usage examples, you can run
